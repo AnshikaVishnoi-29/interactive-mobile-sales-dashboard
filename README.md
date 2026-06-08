@@ -13,3 +13,7 @@ Interactive Power BI dashboard for analyzing mobile sales performance.
 - Power BI
 - Power Query
 - DAX
+
+ ## Dashboard Preview
+
+![Dashboard](dashboard-preview.png)
